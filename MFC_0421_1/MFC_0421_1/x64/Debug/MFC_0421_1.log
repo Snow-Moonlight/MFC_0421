@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  MFC_0421_1Dlg.cpp
+c:\users\hhx\documents\vc++\projects\mfc_0421\mfc_0421_1\mfc_0421_1\mfc_0421_1dlg.cpp(168): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+  MFC_0421_1.cpp
+  正在生成代码...
+  MFC_0421_1.vcxproj -> C:\Users\HHX\Documents\vc++\Projects\MFC_0421\MFC_0421_1\x64\Debug\MFC_0421_1.exe
+  MFC_0421_1.vcxproj -> C:\Users\HHX\Documents\vc++\Projects\MFC_0421\MFC_0421_1\x64\Debug\MFC_0421_1.pdb (Full PDB)
